@@ -1,0 +1,4 @@
+String str1 = "Hello";
+String str2 = "World";
+// concatenates str1 and str2
+String result = str1.

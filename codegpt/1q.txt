@@ -1,0 +1,2 @@
+// Returns a if smaller than b
+int result = (a < b) ? a :

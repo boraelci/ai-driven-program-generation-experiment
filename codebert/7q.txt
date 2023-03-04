@@ -1,0 +1,2 @@
+String str = "hello world";
+String result = str.<mask>('o', 'u');

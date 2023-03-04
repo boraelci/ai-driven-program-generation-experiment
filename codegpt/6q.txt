@@ -1,0 +1,4 @@
+boolean flag = true;
+// Switches the flag from true to false
+if (true) {
+    flag =

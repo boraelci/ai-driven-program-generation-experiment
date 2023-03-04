@@ -1,0 +1,4 @@
+String str1 = "Hello";
+String str2 = "World";
+// result becomes "Hello World"
+String result = str1.<mask>(str2)

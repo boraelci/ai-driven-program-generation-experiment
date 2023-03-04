@@ -1,0 +1,3 @@
+// Returns the smaller one
+if (a < b) {
+    return
